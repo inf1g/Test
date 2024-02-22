@@ -1,5 +1,5 @@
 from time import sleep
-print("\u001b[32;1m")
+print("\u001b[32;1m", end='')
 print(r"""
                    _-o#&&*''''?d:>b\\_
               _o/'`''  '',, dMF9MMMMMHo_
@@ -27,7 +27,7 @@ print(r"""
 """,  end='')
 sleep(1)
 print('\033[2J', end='')
-print('\u001b[110A')
+print('\u001b[110A', end='')
 print(r"""
                   .ovr:HMM#?:`' >b\\_
               .,:&Hi' `'   '' \\\\|&bSMHo_
@@ -55,7 +55,7 @@ print(r"""
 """,  end='')
 sleep(1)
 print('\033[2J', end='')
-print('\u001b[110A')
+print('\u001b[110A', end='')
 print(r"""
                   _oo##'9MMHb':'-,o_
               .vM':HH$'    '''  '' -\\7*_
@@ -83,7 +83,7 @@ print(r"""
 """,  end='')
 sleep(1)
 print('\033[2J', end='')
-print('\u001b[110A')
+print('\u001b[110A', end='')
 print(r"""
                   _,\\?dZkMHF&$*q#b..
               .//9MMMMMMM?:'HM\\\\'`-''`..
@@ -111,7 +111,7 @@ print(r"""
 """,  end='')
 sleep(1)
 print('\033[2J', end='')
-print('\u001b[110A')
+print('\u001b[110A', end='')
 print(r"""
                   _\\oo\\?ddk9MRbS>v\\_
               ..:>*''MMMMMMMMM:?|H?$?-.
@@ -139,7 +139,7 @@ print(r"""
 """,  end='')
 sleep(1)
 print('\033[2J', end='')
-print('\u001b[110A')
+print('\u001b[110A', end='')
 print(r"""
                   _o\\:,??\\??MR9#cb\\_
               .v/''':&#''#HMMMMMMM$?*d\\.
@@ -167,7 +167,7 @@ print(r"""
 """,  end='')
 sleep(1)
 print('\033[2J', end='')
-print('\u001b[110A')
+print('\u001b[110A', end='')
 print(r"""
                   _,oc>?_:b?o?HH#b\\_
               .v/99*''' '*H#''*HMMMMMZ,_
@@ -195,7 +195,7 @@ print(r"""
 """,  end='')
 sleep(1)
 print('\033[2J', end='')
-print('\u001b[110A')
+print('\u001b[110A', end='')
 print(r"""
                   _,o#bH\\??::?o?cbo_
               .o#MH#**SH''' '`*H#'*#MHo_
@@ -223,7 +223,7 @@ print(r"""
 """,  end='')
 sleep(1)
 print('\033[2J', end='')
-print('\u001b[110A')
+print('\u001b[110A', end='')
 print(r"""
                   _oo#H&d#b?\\b:_>>\\_
               .oHMMMMMMH*'*9R''-``*#P\\-_
@@ -251,7 +251,7 @@ print(r"""
 """,  end='')
 sleep(1)
 print('\033[2J', end='')
-print('\u001b[110A')
+print('\u001b[110A', end='')
 print(r"""
                   _,dd#HMb&dHo?\\?:\\_
               .oHMMMMMMMMMMMH***9P'`'\\v.
@@ -279,7 +279,7 @@ print(r"""
 """,  end='')
 sleep(1)
 print('\033[2J', end='')
-print('\u001b[110A')
+print('\u001b[110A', end='')
 print(r"""
                   _,,>#b&HMHd&&bb>\\_
               _oHMMMMMMMMMMMMMMMMH**H:.
@@ -307,7 +307,7 @@ print(r"""
 """,  end='')
 sleep(1)
 print('\033[2J', end='')
-print('\u001b[110A')
+print('\u001b[110A', end='')
 print(r"""
                   _,<_:&S6dHHHb&bb\\_
               .odHMMMMMMMMMMMMMMMMMMM}-_
@@ -335,7 +335,7 @@ print(r"""
 """,  end='')
 sleep(1)
 print('\033[2J', end='')
-print('\u001b[110A')
+print('\u001b[110A', end='')
 print(r"""
                   .-:?,Z?:&$dHH##b\\_
                ,:bqRMMMMMMMMMMMMMMMMMHo.
